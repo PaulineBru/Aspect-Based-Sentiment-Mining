@@ -1,0 +1,59 @@
+
+/* . means CLASS */
+
+
+
+
+
+
+
+
+.health {
+    width: 300;
+    height: 150;
+}
+
+
+.navbar-custom  {
+    color: green;
+}
+
+
+
+
+.container-6{
+
+  background-color: #B2E8AE;
+  width:90vw;
+  height: 40vh;
+  border-radius: 5px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right:50px;
+
+}
+
+.hallo{
+  font-style:
+}
+
+.test{
+  background-color:white
+}
+.col{
+  width: 300px;
+}
+
+.table{
+  width:90vw;
+  height: 40vh;
+}
+
+.input-group{
+  width:20vw !important;
+
+}
+
+.input-group-prepend{
+  border-radius:100px !important;
+}
